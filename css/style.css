@@ -1,0 +1,20 @@
+div#wpcontent{
+	background-color: white;
+}
+#currency-list{
+	margin-top:20px;
+}
+#currency-list li span, #banklist li span{
+	margin:2px 0 0 10px;
+    position: absolute;
+    
+
+}
+#currency-list li input{
+	
+
+}
+input[name="doviz-link"] {
+    margin-top: 15px;
+     margin-bottom: 15px;
+}
